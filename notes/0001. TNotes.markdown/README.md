@@ -9,8 +9,12 @@
 
 ## 1. 🎯 本节内容
 
-- todo
+- TNotes.markdown 知识库简介
 
 ## 2. 🫧 评价
 
-- todo
+该知识库主要用于介绍和 markdown 相关的一些内容，包括：
+
+- markdown 的基本语法
+- LaTeX 公式的基本语法
+- ……
