@@ -1,4 +1,4 @@
-# [0002. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0002.%20new)
+# [0002. 学习资料](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0002.%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)
 
 <!-- region:toc -->
 
