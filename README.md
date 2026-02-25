@@ -8,9 +8,9 @@
 
 ## 1. TNotes.markdown
 
-- [ ] [0001. TNotes.markdown](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0001.%20TNotes.markdown/README.md)
-- [ ] [0002. 学习资料](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0002.%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md)
-- [ ] [0003. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0003.%20new/README.md)
+- [x] [0001. TNotes.markdown](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0001.%20TNotes.markdown/README.md)
+- [x] [0002. 学习资料](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0002.%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md)
+- [x] [0003. Writing on GitHub](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0003.%20Writing%20on%20GitHub/README.md)
 - [ ] [0004. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0004.%20new/README.md)
 - [ ] [0005. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0005.%20new/README.md)
 - [ ] [0006. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0006.%20new/README.md)
