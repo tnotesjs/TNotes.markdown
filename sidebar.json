@@ -16,7 +16,7 @@
         "link": "/notes/0003. Writing on GitHub/README"
       },
       {
-        "text": "⏰ 0004. 初始 markdown",
+        "text": "✅ 0004. 初始 markdown",
         "link": "/notes/0004. 初始 markdown/README"
       },
       {
@@ -74,7 +74,13 @@
       {
         "text": "⏰ 0018. markdown 实战",
         "link": "/notes/0018. markdown 实战/README"
-      },
+      }
+    ]
+  },
+  {
+    "text": "2. TODO",
+    "collapsed": true,
+    "items": [
       {
         "text": "⏰ 0019. new",
         "link": "/notes/0019. new/README"
