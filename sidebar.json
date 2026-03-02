@@ -30,6 +30,20 @@
       {
         "text": "✅ 0005. markdown 编辑器",
         "link": "/notes/0005. markdown 编辑器/README"
+      },
+      {
+        "text": "3.1. github 上的 markdown",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "✅ 0003. Writing on GitHub",
+            "link": "/notes/0003. Writing on GitHub/README"
+          },
+          {
+            "text": "⏰ 0019. github.dev",
+            "link": "/notes/0019. github.dev/README"
+          }
+        ]
       }
     ]
   },
@@ -92,21 +106,7 @@
     ]
   },
   {
-    "text": "5. github 上的 markdown",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0003. Writing on GitHub",
-        "link": "/notes/0003. Writing on GitHub/README"
-      },
-      {
-        "text": "⏰ 0019. github.dev",
-        "link": "/notes/0019. github.dev/README"
-      }
-    ]
-  },
-  {
-    "text": "6. markdown 实战",
+    "text": "5. markdown 实战",
     "collapsed": true,
     "items": [
       {
@@ -120,7 +120,7 @@
     ]
   },
   {
-    "text": "7. TODO",
+    "text": "6. TODO",
     "collapsed": true,
     "items": [
       {

@@ -5,10 +5,10 @@
 - [1. TNotes.markdown](#1-tnotesmarkdown)
 - [2. 初始 markdown](#2-初始-markdown)
 - [3. markdown 编辑器](#3-markdown-编辑器)
+  - [3.1. github 上的 markdown](#31-github-上的-markdown)
 - [4. markdown 核心语法](#4-markdown-核心语法)
-- [5. github 上的 markdown](#5-github-上的-markdown)
-- [6. markdown 实战](#6-markdown-实战)
-- [7. TODO](#7-todo)
+- [5. markdown 实战](#5-markdown-实战)
+- [6. TODO](#6-todo)
 
 <!-- endregion:toc -->
 
@@ -24,6 +24,11 @@
 ## 3. markdown 编辑器
 
 - [x] [0005. markdown 编辑器](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0005.%20markdown%20%E7%BC%96%E8%BE%91%E5%99%A8/README.md)
+
+### 3.1. github 上的 markdown
+
+- [x] [0003. Writing on GitHub](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0003.%20Writing%20on%20GitHub/README.md)
+- [ ] [0019. github.dev](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0019.%20github.dev/README.md)
 
 ## 4. markdown 核心语法
 
@@ -41,17 +46,12 @@
 - [ ] [0016. markdown 数学公式](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0016.%20markdown%20%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/README.md)
 - [ ] [0017. markdown 图表绘制](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0017.%20markdown%20%E5%9B%BE%E8%A1%A8%E7%BB%98%E5%88%B6/README.md)
 
-## 5. github 上的 markdown
-
-- [x] [0003. Writing on GitHub](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0003.%20Writing%20on%20GitHub/README.md)
-- [ ] [0019. github.dev](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0019.%20github.dev/README.md)
-
-## 6. markdown 实战
+## 5. markdown 实战
 
 - [ ] [0018. markdown 实战](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0018.%20markdown%20%E5%AE%9E%E6%88%98/README.md)
 - [ ] [0021. markdown 语法解析器实现原理](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0021.%20markdown%20%E8%AF%AD%E6%B3%95%E8%A7%A3%E6%9E%90%E5%99%A8%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/README.md)
 
-## 7. TODO
+## 6. TODO
 
 - [ ] [0022. markdown-lint](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0022.%20markdown-lint/README.md)
 - [ ] [0023. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0023.%20new/README.md)
