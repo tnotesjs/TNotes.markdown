@@ -27,7 +27,7 @@
 
 ## 4. markdown 核心语法
 
-- [ ] [0020. markdown 核心语法](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0020.%20markdown%20%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95/README.md)
+- [x] [0020. markdown 核心语法](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0020.%20markdown%20%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95/README.md)
 - [x] [0006. markdown 标题](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0006.%20markdown%20%E6%A0%87%E9%A2%98/README.md)
 - [x] [0007. markdown 文本格式](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0007.%20markdown%20%E6%96%87%E6%9C%AC%E6%A0%BC%E5%BC%8F/README.md)
 - [ ] [0008. markdown 列表](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0008.%20markdown%20%E5%88%97%E8%A1%A8/README.md)
