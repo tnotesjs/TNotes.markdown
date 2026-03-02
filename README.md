@@ -3,7 +3,12 @@
 <!-- region:toc -->
 
 - [1. TNotes.markdown](#1-tnotesmarkdown)
-- [2. TODO](#2-todo)
+- [2. 初始 markdown](#2-初始-markdown)
+- [3. markdown 编辑器](#3-markdown-编辑器)
+- [4. markdown 核心语法](#4-markdown-核心语法)
+- [5. github 上的 markdown](#5-github-上的-markdown)
+- [6. markdown 实战](#6-markdown-实战)
+- [7. TODO](#7-todo)
 
 <!-- endregion:toc -->
 
@@ -11,9 +16,18 @@
 
 - [x] [0001. TNotes.markdown](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0001.%20TNotes.markdown/README.md)
 - [x] [0002. 学习资料](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0002.%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md)
-- [x] [0003. Writing on GitHub](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0003.%20Writing%20on%20GitHub/README.md)
+
+## 2. 初始 markdown
+
 - [x] [0004. 初始 markdown](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0004.%20%E5%88%9D%E5%A7%8B%20markdown/README.md)
+
+## 3. markdown 编辑器
+
 - [ ] [0005. markdown 编辑器](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0005.%20markdown%20%E7%BC%96%E8%BE%91%E5%99%A8/README.md)
+
+## 4. markdown 核心语法
+
+- [ ] [0020. markdown 核心语法](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0020.%20markdown%20%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95/README.md)
 - [ ] [0006. markdown 标题](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0006.%20markdown%20%E6%A0%87%E9%A2%98/README.md)
 - [ ] [0007. markdown 文本格式](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0007.%20markdown%20%E6%96%87%E6%9C%AC%E6%A0%BC%E5%BC%8F/README.md)
 - [ ] [0008. markdown 列表](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0008.%20markdown%20%E5%88%97%E8%A1%A8/README.md)
@@ -26,12 +40,18 @@
 - [ ] [0015. markdown 分割线](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0015.%20markdown%20%E5%88%86%E5%89%B2%E7%BA%BF/README.md)
 - [ ] [0016. markdown 数学公式](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0016.%20markdown%20%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/README.md)
 - [ ] [0017. markdown 图表绘制](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0017.%20markdown%20%E5%9B%BE%E8%A1%A8%E7%BB%98%E5%88%B6/README.md)
+
+## 5. github 上的 markdown
+
+- [x] [0003. Writing on GitHub](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0003.%20Writing%20on%20GitHub/README.md)
+- [ ] [0019. github.dev](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0019.%20github.dev/README.md)
+
+## 6. markdown 实战
+
 - [ ] [0018. markdown 实战](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0018.%20markdown%20%E5%AE%9E%E6%88%98/README.md)
 
-## 2. TODO
+## 7. TODO
 
-- [ ] [0019. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0019.%20new/README.md)
-- [ ] [0020. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0020.%20new/README.md)
 - [ ] [0021. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0021.%20new/README.md)
 - [ ] [0022. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0022.%20new/README.md)
 - [ ] [0023. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0023.%20new/README.md)
