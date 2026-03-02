@@ -5,6 +5,9 @@
 - [1. 🎯 本节内容](#1--本节内容)
 - [2. 🫧 评价](#2--评价)
 - [3. 🤔 常见的 markdown 编辑器有哪些？](#3--常见的-markdown-编辑器有哪些)
+  - [3.1. 本地桌面端](#31-本地桌面端)
+  - [3.2. 在线编辑器](#32-在线编辑器)
+  - [3.3. 终端编辑器](#33-终端编辑器)
 - [4. 🤔 如何选择适合自己的 markdown 编辑器？](#4--如何选择适合自己的-markdown-编辑器)
 - [5. 🤔 在线编辑器和本地编辑器有何区别？](#5--在线编辑器和本地编辑器有何区别)
 - [6. 🤔 VS Code 如何用于 markdown 编写？](#6--vs-code-如何用于-markdown-编写)
@@ -23,11 +26,38 @@ TNotes 中的一系列笔记就是一个个 markdown 文件，使用的方案：
 
 ## 3. 🤔 常见的 markdown 编辑器有哪些？
 
-- 本地桌面端：Typora（付费）、Obsidian（免费 / 付费插件）、VS Code（配合插件）、Zed（一款类似 VSCode 的使用 Rust 实现的开源编辑器）
-- 在线编辑器：StackEdit、Dillinger、GitHub 在线编辑器（github.dev）
-- 终端编辑器：Vim / Neovim（配合插件）、Emacs
+市面上的 markdown 编辑器非常多，感兴趣的话可以自行搜索关键字到对应的官网去了解详情。
+
+以下是相对比较常见的一些 markdown 编辑器：
+
+### 3.1. 本地桌面端
+
+- Typora（付费）
+- Obsidian（免费 / 付费插件）
+- VS Code（开源免费、配合插件）
+- Zed（一款类似 VSCode 的使用 Rust 实现的开源编辑器）
+- MarkText（开源免费）
+- Zettlr（开源免费）
+- ……
+
+### 3.2. 在线编辑器
+
+- StackEdit
+- Dillinger
+- GitHub 在线编辑器（github.dev）
+- ……
+
+### 3.3. 终端编辑器
+
+- Vim / Neovim（配合插件）
+- Emacs
+- ……
 
 ## 4. 🤔 如何选择适合自己的 markdown 编辑器？
+
+没啥特别好的建议，如果真要说的话，那就是：“先明确自己的需求，再根据你的具体需求去找对应的工具，如果找不到对应的工具，再尝试去理解这个工具的实现原理，看是否可以自己写一个。” —— 就个人实践来看，这做法在是屡试不爽。
+
+markdown 文档的语法解析和渲染逻辑并不难，你可以通过简短的 100 行左右的脚本即可实现一个基础版本的 markdown 解析器。
 
 可以从以下几个维度考虑：
 
@@ -56,16 +86,21 @@ VS Code 内置了 markdown 基本支持，安装后即可使用：
 
 ## 8. 🔗 引用
 
-- [typora 官网][1]
-- [obsidian 官网][2]
-- [vscode 官网][3]
-- [vscode github 仓库][10]
-- [stackedit 官网][4]
-- [stackedit github 仓库][5]
-- [Dillinger 官网][6]
-- [dillinger github 仓库][7]
-- [zed 官网][9]
-- [zed github 仓库][8]
+- [typora - 官网][1]
+- [obsidian - 官网][2]
+- [vscode - 官网][3]
+- [vscode - github 仓库][10]
+- [stackedit - 官网][4]
+- [stackedit - github 仓库][5]
+- [Dillinger - 官网][6]
+- [dillinger - github 仓库][7]
+- [zed - 官网][9]
+- [zed - github 仓库][8]
+- [Emacs Book - github 仓库][11]
+- [Emacs - github 仓库][12]
+- [vim - github 仓库][13]
+- [neovim - github 仓库][14]
+- [Zettlr - github 仓库][15]
 
 [1]: https://typora.io/
 [2]: https://obsidian.md/
@@ -77,3 +112,8 @@ VS Code 内置了 markdown 基本支持，安装后即可使用：
 [8]: https://github.com/zed-industries/zed
 [9]: https://zed.dev/
 [10]: https://github.com/microsoft/vscode
+[11]: https://github.com/Pavinberg/emacs-book/
+[12]: https://github.com/emacs-mirror/emacs
+[13]: https://github.com/vim/vim
+[14]: https://github.com/neovim/neovim
+[15]: https://github.com/Zettlr/Zettlr

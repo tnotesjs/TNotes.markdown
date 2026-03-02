@@ -112,6 +112,10 @@
       {
         "text": "⏰ 0018. markdown 实战",
         "link": "/notes/0018. markdown 实战/README"
+      },
+      {
+        "text": "⏰ 0021. markdown 语法解析器实现原理",
+        "link": "/notes/0021. markdown 语法解析器实现原理/README"
       }
     ]
   },
@@ -119,10 +123,6 @@
     "text": "7. TODO",
     "collapsed": true,
     "items": [
-      {
-        "text": "⏰ 0021. new",
-        "link": "/notes/0021. new/README"
-      },
       {
         "text": "⏰ 0022. new",
         "link": "/notes/0022. new/README"
