@@ -57,19 +57,29 @@ TNotes 中的一系列笔记就是一个个 markdown 文件，使用的方案：
 
 没啥特别好的建议，如果真要说的话，那就是：“先明确自己的需求，再根据你的具体需求去找对应的工具，如果找不到对应的工具，再尝试去理解这个工具的实现原理，看是否可以自己写一个。” —— 就个人实践来看，这做法在是屡试不爽。
 
-markdown 文档的语法解析和渲染逻辑并不难，你可以通过简短的 100 行左右的脚本即可实现一个基础版本的 markdown 解析器。
+markdown 文档的语法解析和渲染逻辑并不难，你可以通过简短的一百多行左右的脚本即可实现一个基础版本的 markdown 解析器，详情可以参考对应笔记 => `0021. markdown 语法解析器实现原理`。
 
-可以从以下几个维度考虑：
+如果要列具体的需求的话，可以从以下几个维度考虑：
 
-- 使用场景：是写博客、做笔记、还是撰写技术文档？
-- 功能需求：是否需要实时预览、导出 PDF、双向链接、版本管理等功能？
-- 费用：Typora 为付费软件，Obsidian 基础版免费，VS Code 完全免费
-- 平台兼容：是否需要在 Windows、macOS、Linux、移动端之间同步使用？
-- 扩展能力：VS Code 和 Obsidian 均有丰富的插件生态，可高度定制
+- 是否接受收费？
+- 是否必须开源？ ✅（TNotes 开源）
+- 是否需要实时预览？ ✅（TNotes 基于 vitepress 手写本地服务来实现笔记的实时预览）
+- 是否需要导出多格式？比如：PDF、Word、HTML 等等……
+- 是否需要双向链接功能？
+- 是否需要版本管理功能？ ✅（TNotes 借助 git 来管理笔记版本）
+- 是否需要在 Windows、macOS、Linux、移动端之间同步数据？ ✅（TNotes 借助 git 来手动同步多端的数据）
+- 是否需要在移动端使用？
+- 是否需要支持在线编辑？
+- 是否需要多人协同编辑？
+- 是否有高度定制化的需求？ ✅（TNotes 中的很多功能都是自行封装组件去实现的，可以自由扩展 markdown 语法）
+- ……（其他需求）
+
+上述打勾的部分，是我的选择，目前所使用的 TNotes 就是基于这些需求来实现的开源笔记工具。
 
 ## 5. 🤔 在线编辑器和本地编辑器有何区别？
 
-在线编辑器运行在浏览器中，无需安装，随时随地可访问，适合临时编写或团队协作；但依赖网络，隐私保护可能较弱，离线不可用。本地编辑器安装在设备上，响应速度快，数据存储在本地，不依赖网络，隐私更有保障；但需要手动安装和配置，跨设备同步需借助云盘等工具。
+- 在线编辑器运行在浏览器中，无需安装，随时随地可访问，适合临时编写或团队协作；但依赖网络，隐私保护可能较弱，离线不可用。
+- 本地编辑器安装在设备上，响应速度快，数据存储在本地，不依赖网络，隐私更有保障；但需要手动安装和配置，跨设备同步需借助云盘等工具。
 
 ## 6. 🤔 VS Code 如何用于 markdown 编写？
 
@@ -82,14 +92,21 @@ VS Code 内置了 markdown 基本支持，安装后即可使用：
 
 ## 7. 🤔 markdown 编辑器的实时预览功能是如何实现的？
 
-大多数 markdown 编辑器的实时预览通过以下流程实现：编辑器监听文本输入事件，当内容变化时，调用内置或第三方的 markdown 解析器（如 marked、markdown-it、commonmark 等）将 markdown 文本解析为 HTML，再将生成的 HTML 注入到预览区域的渲染引擎（通常是基于 WebView / Chromium 的嵌入式浏览器）中进行显示。为了提升性能，通常只会对变更的部分进行增量更新，而非全量重新渲染。
+大多数 markdown 编辑器的实时预览通过以下流程实现：
+
+1. 编辑器监听文本输入事件，当内容变化时，调用内置或第三方的 markdown 解析器（如 marked、markdown-it、commonmark 等）将 markdown 文本解析为 HTML
+2. 再将生成的 HTML 注入到预览区域的渲染引擎（通常是基于 WebView / Chromium 的嵌入式浏览器）中进行显示
+
+为了提升性能，通常只会对变更的部分进行增量更新，而非全量重新渲染。
 
 ## 8. 🔗 引用
 
 - [typora - 官网][1]
 - [obsidian - 官网][2]
-- [vscode - 官网][3]
-- [vscode - github 仓库][10]
+- [VSCode - 官网][3]
+- [VSCode - github 仓库][10]
+- [VSCode 插件 - Markdown All in One][16]
+- [VSCode 插件 - Markdown Preview Enhanced][17]
 - [stackedit - 官网][4]
 - [stackedit - github 仓库][5]
 - [Dillinger - 官网][6]
@@ -117,3 +134,5 @@ VS Code 内置了 markdown 基本支持，安装后即可使用：
 [13]: https://github.com/vim/vim
 [14]: https://github.com/neovim/neovim
 [15]: https://github.com/Zettlr/Zettlr
+[16]: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+[17]: https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced

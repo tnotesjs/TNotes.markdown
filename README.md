@@ -23,7 +23,7 @@
 
 ## 3. markdown 编辑器
 
-- [ ] [0005. markdown 编辑器](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0005.%20markdown%20%E7%BC%96%E8%BE%91%E5%99%A8/README.md)
+- [x] [0005. markdown 编辑器](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0005.%20markdown%20%E7%BC%96%E8%BE%91%E5%99%A8/README.md)
 
 ## 4. markdown 核心语法
 
