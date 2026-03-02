@@ -1,4 +1,4 @@
-# [0022. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0022.%20new)
+# [0022. markdown-lint](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0022.%20markdown-lint)
 
 <!-- region:toc -->
 
