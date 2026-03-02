@@ -5,7 +5,6 @@
 - [1. TNotes.markdown](#1-tnotesmarkdown)
 - [2. 初始 markdown](#2-初始-markdown)
 - [3. markdown 编辑器](#3-markdown-编辑器)
-  - [3.1. github 上的 markdown](#31-github-上的-markdown)
 - [4. markdown 核心语法](#4-markdown-核心语法)
 - [5. markdown 实战](#5-markdown-实战)
 - [6. TODO](#6-todo)
@@ -24,9 +23,6 @@
 ## 3. markdown 编辑器
 
 - [x] [0005. markdown 编辑器](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0005.%20markdown%20%E7%BC%96%E8%BE%91%E5%99%A8/README.md)
-
-### 3.1. github 上的 markdown
-
 - [x] [0003. Writing on GitHub](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0003.%20Writing%20on%20GitHub/README.md)
 - [ ] [0019. github.dev](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0019.%20github.dev/README.md)
 
