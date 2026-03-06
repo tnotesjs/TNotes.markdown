@@ -16,9 +16,10 @@
 
 ## 1. 🎯 本节内容
 
-- markdown 链接基本衣服啊
+- markdown 链接基本语法
 - markdown 引用式链接语法
-- markdown 锚点链接
+- markdown 链接标题提示语法
+- markdown 锚点链接语法
 
 ## 2. 🫧 评价
 
