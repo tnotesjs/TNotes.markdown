@@ -37,10 +37,10 @@
 - [x] [0011. markdown 链接](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0011.%20markdown%20%E9%93%BE%E6%8E%A5/README.md)
 - [x] [0012. markdown 图片](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0012.%20markdown%20%E5%9B%BE%E7%89%87/README.md)
 - [x] [0013. markdown 表格](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0013.%20markdown%20%E8%A1%A8%E6%A0%BC/README.md)
-- [x] [0014. markdown 高级技巧](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0014.%20markdown%20%E9%AB%98%E7%BA%A7%E6%8A%80%E5%B7%A7/README.md)
 - [ ] [0015. markdown 分割线](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0015.%20markdown%20%E5%88%86%E5%89%B2%E7%BA%BF/README.md)
 - [ ] [0016. markdown 数学公式](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0016.%20markdown%20%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/README.md)
 - [ ] [0017. markdown 图表绘制](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0017.%20markdown%20%E5%9B%BE%E8%A1%A8%E7%BB%98%E5%88%B6/README.md)
+- [x] [0014. markdown 高级技巧](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0014.%20markdown%20%E9%AB%98%E7%BA%A7%E6%8A%80%E5%B7%A7/README.md)
 
 ## 5. markdown 实战
 

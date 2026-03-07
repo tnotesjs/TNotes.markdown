@@ -82,10 +82,6 @@
         "link": "/notes/0013. markdown 表格/README"
       },
       {
-        "text": "✅ 0014. markdown 高级技巧",
-        "link": "/notes/0014. markdown 高级技巧/README"
-      },
-      {
         "text": "⏰ 0015. markdown 分割线",
         "link": "/notes/0015. markdown 分割线/README"
       },
@@ -96,6 +92,10 @@
       {
         "text": "⏰ 0017. markdown 图表绘制",
         "link": "/notes/0017. markdown 图表绘制/README"
+      },
+      {
+        "text": "✅ 0014. markdown 高级技巧",
+        "link": "/notes/0014. markdown 高级技巧/README"
       }
     ]
   },
