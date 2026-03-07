@@ -9,6 +9,8 @@
 - [5. 🤔 如何同时使用粗体和斜体？](#5--如何同时使用粗体和斜体)
 - [6. 🤔 markdown 中如何添加删除线？](#6--markdown-中如何添加删除线)
 - [7. 🤔 markdown 中如何表示下标和上标？](#7--markdown-中如何表示下标和上标)
+- [8. 🤔 markdown 中如何书写脚注？](#8--markdown-中如何书写脚注)
+- [9. 🤔 markdown 中如何高亮文字？](#9--markdown-中如何高亮文字)
 
 <!-- endregion:toc -->
 
@@ -18,10 +20,13 @@
 - 斜体语法
 - 删除线语法
 - 上、下标语法
+- 脚注语法
 
 ## 2. 🫧 评价
 
 笔记中介绍到的这些语法都非常简单，快速搂一眼基本就差不多了。
+
+本节介绍的语法并非都是标准的 markdown 语法，有些写法在一些 markdown 解析器中是解析不了的，比如“脚注”、“高亮”的语法，在 vitepress 中目前（26.03）是没有提供支持的。
 
 ## 3. 🤔 如何在 markdown 中加粗文字？
 
@@ -79,3 +84,35 @@ ___这也是粗体+斜体文字___
 - 部分扩展（如 Pandoc、MultiMarkdown）支持 `^上标^` 和 `~下标~` 语法
 
 ![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-03-02-21-58-27.png)
+
+## 8. 🤔 markdown 中如何书写脚注？
+
+脚注是对文本的补充说明。
+
+Markdown 脚注的格式如下:
+
+```
+[^要注明的文本]
+```
+
+以下实例演示了脚注的用法：
+
+```
+创建脚注格式类似这样 [^TNotes.markdown]。
+
+[^TNotes.markdown]: 这是 tnotesjs 组织下的一个开源知识库，用于介绍和 markdown 相关的内容。
+```
+
+演示效果如下：
+
+![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-03-07-14-31-37.png)
+
+## 9. 🤔 markdown 中如何高亮文字？
+
+使用 `==` 包裹文字（GFM 扩展语法）：
+
+```
+这是==高亮文本==
+```
+
+![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-03-07-14-36-04.png)

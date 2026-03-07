@@ -11,7 +11,8 @@
   - [4.3. 两种写法对比](#43-两种写法对比)
 - [5. 🤔 代码块如何指定编程语言实现语法高亮？](#5--代码块如何指定编程语言实现语法高亮)
 - [6. 🤔 如何在代码块中显示反引号字符？](#6--如何在代码块中显示反引号字符)
-- [7. 🔗 引用](#7--引用)
+- [7. 🤔 diff 语法是什么？如何书写 diff 语法？](#7--diff-语法是什么如何书写-diff-语法)
+- [8. 🔗 引用](#8--引用)
 
 <!-- endregion:toc -->
 
@@ -21,6 +22,7 @@
 - 围栏代码块
 - 缩进代码块
 - 代码块语法高亮
+- diff 语法
 
 ## 2. 🫧 评价
 
@@ -132,7 +134,39 @@ const greet = (name) => `Hello, ${name}!`;
 - 如果围栏代码块自身需要用反引号作为结束标记但内容中也有三个反引号，可以使用 4 个反引号或单个反引号作为围栏。
 - 代码块内部的内容不会被解析为 markdown，因此反引号可以直接写入代码块中，无须特殊处理。
 
-## 7. 🔗 引用
+## 7. 🤔 diff 语法是什么？如何书写 diff 语法？
+
+diff 语法是一种特殊的代码块语法，用于表示代码的增删改动，常用于展示版本控制中的变更内容。
+
+````
+```diff
++ 新增的代码行
+- 删除的代码行
+! 修改的代码行
+```
+
+```diff
+function calculateTotal(items) {
+-   let total = 0;
++   let total = 0.0;
+
+    for (let item of items) {
+-       total += item.price;
++       total += parseFloat(item.price);
+    }
+
++   // 保留两位小数
++   total = Math.round(total * 100) / 100;
+    return total;
+}
+```
+````
+
+最终渲染结果：
+
+![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-03-07-14-42-06.png)
+
+## 8. 🔗 引用
 
 - [highlightjs/highlight.js - github][1] - 语法高亮库，支持多种编程语言的代码高亮显示。
 - [PrismJS/prism - github][2] - 轻量级语法高亮库，支持多种编程语言的代码高亮显示。

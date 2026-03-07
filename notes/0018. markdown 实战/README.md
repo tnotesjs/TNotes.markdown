@@ -25,5 +25,7 @@ markdown 实战部分的建议：
 ## 3. 🔗 引用
 
 - [菜鸟教程 - Markdown 实战 - 个人简历制作][1]
+- [菜鸟教程 - Markdown 语法练习题][2]
 
 [1]: https://www.runoob.com/markdown/markdown-practices.html
+[2]: https://www.runoob.com/markdown/md-quiz.html

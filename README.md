@@ -46,11 +46,11 @@
 
 ## 5. markdown 解析器
 
-- [ ] [0021. 手写 markdown 解析器](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0021.%20%E6%89%8B%E5%86%99%20markdown%20%E8%A7%A3%E6%9E%90%E5%99%A8/README.md)
+- [x] [0021. 手写 markdown 解析器](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0021.%20%E6%89%8B%E5%86%99%20markdown%20%E8%A7%A3%E6%9E%90%E5%99%A8/README.md)
 
 ## 6. VSCode markdown 推荐插件
 
-- [ ] [0022. VSCode markdown 推荐插件](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0022.%20VSCode%20markdown%20%E6%8E%A8%E8%8D%90%E6%8F%92%E4%BB%B6/README.md)
+- [x] [0022. VSCode markdown 推荐插件](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0022.%20VSCode%20markdown%20%E6%8E%A8%E8%8D%90%E6%8F%92%E4%BB%B6/README.md)
 
 ## 7. TODO
 

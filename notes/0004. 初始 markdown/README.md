@@ -9,7 +9,8 @@
 - [5. 🤔 markdown 有哪些核心设计理念？](#5--markdown-有哪些核心设计理念)
 - [6. 🤔 markdown 的应用场景有哪些？](#6--markdown-的应用场景有哪些)
 - [7. 🤔 markdown 与富文本编辑器相比有哪些优缺点？](#7--markdown-与富文本编辑器相比有哪些优缺点)
-- [8. 🔗 引用](#8--引用)
+- [8. 🤔 markdown 和 HTML 之间的关系是？](#8--markdown-和-html-之间的关系是)
+- [9. 🔗 引用](#9--引用)
 
 <!-- endregion:toc -->
 
@@ -77,7 +78,29 @@ GitHub 则在此基础上推出了 GFM（GitHub Flavored Markdown），增加了
 - 对非技术用户有一定学习门槛
 - ……
 
-## 8. 🔗 引用
+## 8. 🤔 markdown 和 HTML 之间的关系是？
+
+Markdown 并不是 HTML 的替代品，而是 HTML 的简化版本。实际上，Markdown 的最终目标就是转换为 HTML。两者的关系可以这样理解：
+
+```
+Markdown 源码 → 解析器 → HTML 输出 → 浏览器渲染
+```
+
+例如，当你写下：
+
+```
+# 这是一个标题
+```
+
+它会被转换为：
+
+```
+<h1>这是一个标题</h1>
+```
+
+重要的是，在 Markdown 中你可以直接使用 HTML 标签，这为复杂格式提供了灵活性。当 Markdown 的基础语法无法满足需求时，可以嵌入 HTML 代码来实现特定效果。
+
+## 9. 🔗 引用
 
 - [wiki - John Gruber][1]
 - [wiki - markdown][2]
