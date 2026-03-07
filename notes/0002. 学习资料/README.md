@@ -21,7 +21,9 @@
 - [markdown - 菜鸟教程][1]
 - [LaTeX - 菜鸟教程][2]
 - [LaTeX 入门 - OI Wiki][3]
+- [stackexchange - math - MathJax basic tutorial and quick reference][4]
 
 [1]: https://www.runoob.com/markdown/md-tutorial.html
 [2]: https://www.runoob.com/latex/latex-tutorial.html
 [3]: https://oi-wiki.org/tools/latex/
+[4]: https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference

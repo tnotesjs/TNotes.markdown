@@ -90,23 +90,23 @@
         "link": "/notes/0016. markdown 数学公式/README"
       },
       {
-        "text": "⏰ 0017. markdown 图表绘制",
+        "text": "✅ 0017. markdown 图表绘制",
         "link": "/notes/0017. markdown 图表绘制/README"
       },
       {
         "text": "✅ 0014. markdown 高级技巧",
         "link": "/notes/0014. markdown 高级技巧/README"
+      },
+      {
+        "text": "✅ 0018. markdown 实战",
+        "link": "/notes/0018. markdown 实战/README"
       }
     ]
   },
   {
-    "text": "5. markdown 实战",
+    "text": "5. markdown 解析器",
     "collapsed": true,
     "items": [
-      {
-        "text": "⏰ 0018. markdown 实战",
-        "link": "/notes/0018. markdown 实战/README"
-      },
       {
         "text": "⏰ 0021. markdown 语法解析器实现原理",
         "link": "/notes/0021. markdown 语法解析器实现原理/README"
@@ -114,13 +114,19 @@
     ]
   },
   {
-    "text": "6. TODO",
+    "text": "6. VSCode 插件",
     "collapsed": true,
     "items": [
       {
         "text": "⏰ 0022. markdown-lint",
         "link": "/notes/0022. markdown-lint/README"
-      },
+      }
+    ]
+  },
+  {
+    "text": "7. TODO",
+    "collapsed": true,
+    "items": [
       {
         "text": "⏰ 0023. new",
         "link": "/notes/0023. new/README"

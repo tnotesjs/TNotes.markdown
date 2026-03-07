@@ -6,8 +6,9 @@
 - [2. 初始 markdown](#2-初始-markdown)
 - [3. markdown 编辑器](#3-markdown-编辑器)
 - [4. markdown 核心语法](#4-markdown-核心语法)
-- [5. markdown 实战](#5-markdown-实战)
-- [6. TODO](#6-todo)
+- [5. markdown 解析器](#5-markdown-解析器)
+- [6. VSCode 插件](#6-vscode-插件)
+- [7. TODO](#7-todo)
 
 <!-- endregion:toc -->
 
@@ -39,17 +40,20 @@
 - [x] [0013. markdown 表格](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0013.%20markdown%20%E8%A1%A8%E6%A0%BC/README.md)
 - [x] [0015. markdown 分割线](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0015.%20markdown%20%E5%88%86%E5%89%B2%E7%BA%BF/README.md)
 - [x] [0016. markdown 数学公式](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0016.%20markdown%20%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/README.md)
-- [ ] [0017. markdown 图表绘制](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0017.%20markdown%20%E5%9B%BE%E8%A1%A8%E7%BB%98%E5%88%B6/README.md)
+- [x] [0017. markdown 图表绘制](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0017.%20markdown%20%E5%9B%BE%E8%A1%A8%E7%BB%98%E5%88%B6/README.md)
 - [x] [0014. markdown 高级技巧](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0014.%20markdown%20%E9%AB%98%E7%BA%A7%E6%8A%80%E5%B7%A7/README.md)
+- [x] [0018. markdown 实战](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0018.%20markdown%20%E5%AE%9E%E6%88%98/README.md)
 
-## 5. markdown 实战
+## 5. markdown 解析器
 
-- [ ] [0018. markdown 实战](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0018.%20markdown%20%E5%AE%9E%E6%88%98/README.md)
 - [ ] [0021. markdown 语法解析器实现原理](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0021.%20markdown%20%E8%AF%AD%E6%B3%95%E8%A7%A3%E6%9E%90%E5%99%A8%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/README.md)
 
-## 6. TODO
+## 6. VSCode 插件
 
 - [ ] [0022. markdown-lint](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0022.%20markdown-lint/README.md)
+
+## 7. TODO
+
 - [ ] [0023. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0023.%20new/README.md)
 - [ ] [0024. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0024.%20new/README.md)
 - [ ] [0025. new](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0025.%20new/README.md)
