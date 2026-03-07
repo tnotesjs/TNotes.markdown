@@ -22,8 +22,13 @@
 - [LaTeX - 菜鸟教程][2]
 - [LaTeX 入门 - OI Wiki][3]
 - [stackexchange - math - MathJax basic tutorial and quick reference][4]
+  - 介绍在 markdown 中书写公式的快速入门教程。
+- [了不起的 Markdown：大语言模型时代的通用语言 - 微信读书][5]
+  - 推荐章节 -> 第 3 章：人人都能学会 Markdown
+  - 推荐章节 -> 第 5 章：极客式写作工具：VS Code
 
 [1]: https://www.runoob.com/markdown/md-tutorial.html
 [2]: https://www.runoob.com/latex/latex-tutorial.html
 [3]: https://oi-wiki.org/tools/latex/
 [4]: https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+[5]: https://weread.qq.com/web/reader/750324c0813aba690g01140e
