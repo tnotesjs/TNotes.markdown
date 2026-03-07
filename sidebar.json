@@ -108,8 +108,8 @@
     "collapsed": true,
     "items": [
       {
-        "text": "⏰ 0021. markdown 语法解析器实现原理",
-        "link": "/notes/0021. markdown 语法解析器实现原理/README"
+        "text": "⏰ 0021. 手写 markdown 解析器",
+        "link": "/notes/0021. 手写 markdown 解析器/README"
       }
     ]
   },
