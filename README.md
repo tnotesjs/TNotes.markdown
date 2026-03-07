@@ -7,7 +7,7 @@
 - [3. markdown 编辑器](#3-markdown-编辑器)
 - [4. markdown 核心语法](#4-markdown-核心语法)
 - [5. markdown 解析器](#5-markdown-解析器)
-- [6. VSCode 插件](#6-vscode-插件)
+- [6. VSCode markdown 推荐插件](#6-vscode-markdown-推荐插件)
 - [7. TODO](#7-todo)
 
 <!-- endregion:toc -->
@@ -48,9 +48,9 @@
 
 - [ ] [0021. markdown 语法解析器实现原理](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0021.%20markdown%20%E8%AF%AD%E6%B3%95%E8%A7%A3%E6%9E%90%E5%99%A8%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/README.md)
 
-## 6. VSCode 插件
+## 6. VSCode markdown 推荐插件
 
-- [ ] [0022. markdown-lint](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0022.%20markdown-lint/README.md)
+- [ ] [0022. VSCode markdown 推荐插件](https://github.com/tnotesjs/TNotes.markdown/tree/main/notes/0022.%20VSCode%20markdown%20%E6%8E%A8%E8%8D%90%E6%8F%92%E4%BB%B6/README.md)
 
 ## 7. TODO
 

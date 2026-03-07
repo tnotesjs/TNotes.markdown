@@ -114,12 +114,12 @@
     ]
   },
   {
-    "text": "6. VSCode 插件",
+    "text": "6. VSCode markdown 推荐插件",
     "collapsed": true,
     "items": [
       {
-        "text": "⏰ 0022. markdown-lint",
-        "link": "/notes/0022. markdown-lint/README"
+        "text": "⏰ 0022. VSCode markdown 推荐插件",
+        "link": "/notes/0022. VSCode markdown 推荐插件/README"
       }
     ]
   },
