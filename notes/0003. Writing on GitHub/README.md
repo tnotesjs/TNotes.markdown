@@ -2,26 +2,26 @@
 
 <!-- region:toc -->
 
-- [1. 🎯 本节内容](#1--本节内容)
-- [2. 🫧 评价](#2--评价)
-- [3. 🤔 如何搭建 github 的测试书写环境呢？](#3--如何搭建-github-的测试书写环境呢)
-- [4. 🤔 为什么说 Github 对传统的 markdown 做了一些扩展？](#4--为什么说-github-对传统的-markdown-做了一些扩展)
-- [5. 🤔 如何在 github 上使用表情符号（Using emojis）？](#5--如何在-github-上使用表情符号using-emojis)
-- [6. 🤔 如何在 github 中书写警告信息（Alerts）？](#6--如何在-github-中书写警告信息alerts)
-- [7. 🤔 在哪查阅 github 对 markdown 的书写都提供了哪些额外的支持呢？](#7--在哪查阅-github-对-markdown-的书写都提供了哪些额外的支持呢)
-- [8. 🔗 引用](#8--引用)
+- [1. 本节内容](#1-本节内容)
+- [2. 评价](#2-评价)
+- [3. 如何搭建 github 的测试书写环境呢？](#3-如何搭建-github-的测试书写环境呢)
+- [4. 为什么说 Github 对传统的 markdown 做了一些扩展？](#4-为什么说-github-对传统的-markdown-做了一些扩展)
+- [5. 如何在 github 上使用表情符号（Using emojis）？](#5-如何在-github-上使用表情符号using-emojis)
+- [6. 如何在 github 中书写警告信息（Alerts）？](#6-如何在-github-中书写警告信息alerts)
+- [7. 在哪查阅 github 对 markdown 的书写都提供了哪些额外的支持呢？](#7-在哪查阅-github-对-markdown-的书写都提供了哪些额外的支持呢)
+- [8. 引用](#8-引用)
 
 <!-- endregion:toc -->
 
-## 1. 🎯 本节内容
+## 1. 本节内容
 
 - github 上的 markdown 扩展功能
 
-## 2. 🫧 评价
+## 2. 评价
 
 本节介绍了 GitHub 对 Markdown 的一部分扩展功能，比如：使用 Emoji 和 Alerts 来增强文档的表达效果。
 
-## 3. 🤔 如何搭建 github 的测试书写环境呢？
+## 3. 如何搭建 github 的测试书写环境呢？
 
 最简单直接的方法：随便找一个项目，比如 [vscode github][4]：
 
@@ -61,7 +61,7 @@
 
 :::
 
-## 4. 🤔 为什么说 Github 对传统的 markdown 做了一些扩展？
+## 4. 为什么说 Github 对传统的 markdown 做了一些扩展？
 
 回答这个问题，需要先确定对比的对象：
 
@@ -75,7 +75,7 @@
 
 之所以说“Github 对传统的 markdown 做了一些扩展”，是因为有些 markdown 的写法 github 上特定支持的，而在 markdown-it 中并不支持（或者说 markdown-it 中需要通过插件来支持的，在 github 上是直接支持的）。
 
-## 5. 🤔 如何在 github 上使用表情符号（Using emojis）？
+## 5. 如何在 github 上使用表情符号（Using emojis）？
 
 你可以通过输入 `:EMOJICODE:` 来在你的文字中添加表情符号，格式为冒号后接表情名称。
 
@@ -102,7 +102,7 @@
 
 :::
 
-## 6. 🤔 如何在 github 中书写警告信息（Alerts）？
+## 6. 如何在 github 中书写警告信息（Alerts）？
 
 ```md
 > [!NOTE]
@@ -147,7 +147,7 @@
 
 :::
 
-## 7. 🤔 在哪查阅 github 对 markdown 的书写都提供了哪些额外的支持呢？
+## 7. 在哪查阅 github 对 markdown 的书写都提供了哪些额外的支持呢？
 
 在上述的内容中，介绍了 github 中书写 markdown 的两个特性：`emoji` 和 `Alerts`，实际上 GitHub 中对 markdown 的书写都提供了很多额外的支持。
 
@@ -157,7 +157,7 @@
 
 如果在 github 上查看其他人写的文档时，发现一些特殊的效果不知道如何使用 markdown 来编写，那么可以到这篇官方提供的文档中找找看相应的语法介绍。
 
-## 8. 🔗 引用
+## 8. 引用
 
 - [Writing on GitHub][1]
 - [markdown-it demo][2]

@@ -2,22 +2,22 @@
 
 <!-- region:toc -->
 
-- [1. 🎯 本节内容](#1--本节内容)
-- [2. 🫧 评价](#2--评价)
-- [3. 💻 demos.1 - 实现极简版 markdown 解析器](#3--demos1---实现极简版-markdown-解析器)
+- [1. 本节内容](#1-本节内容)
+- [2. 评价](#2-评价)
+- [3. demos.1 - 实现极简版 markdown 解析器](#3-demos1---实现极简版-markdown-解析器)
 
 <!-- endregion:toc -->
 
-## 1. 🎯 本节内容
+## 1. 本节内容
 
 - markdown 解析器实现原理简介
 - 手写 markdown 解析器
 
-## 2. 🫧 评价
+## 2. 评价
 
 通过一个简单的示例来快速了解 markdown 解析器的实现原理。
 
-## 3. 💻 demos.1 - 实现极简版 markdown 解析器
+## 3. demos.1 - 实现极简版 markdown 解析器
 
 ::: code-group
 

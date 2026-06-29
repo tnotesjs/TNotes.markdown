@@ -2,17 +2,17 @@
 
 <!-- region:toc -->
 
-- [1. 🎯 本节内容](#1--本节内容)
-- [2. 🫧 评价](#2--评价)
-- [3. 🔗 引用](#3--引用)
+- [1. 本节内容](#1-本节内容)
+- [2. 评价](#2-评价)
+- [3. 引用](#3-引用)
 
 <!-- endregion:toc -->
 
-## 1. 🎯 本节内容
+## 1. 本节内容
 
 - VSCode markdown 推荐插件
 
-## 2. 🫧 评价
+## 2. 评价
 
 如果你也使用 VSCode 来书写 markdown 文档，那么可以考虑安装以下插件：
 
@@ -29,7 +29,7 @@
 
 ![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-03-07-14-18-19.png)
 
-## 3. 🔗 引用
+## 3. 引用
 
 - [markdownlint - vscode marketplace][1]
 - [Markdown All in One - vscode marketplace][2]
