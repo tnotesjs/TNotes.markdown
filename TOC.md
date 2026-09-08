@@ -1,14 +1,10 @@
-- TNotes.markdown
-  - [x] 0001. TNotes.markdown
+- [x] 0001. TNotes.markdown
   - [x] 0002. 学习资料
-- 初始 markdown
-  - [x] 0004. 初始 markdown
-- markdown 编辑器
-  - [x] 0005. markdown 编辑器
+- [x] 0004. 初始 markdown
+- [x] 0005. markdown 编辑器
   - [x] 0003. Writing on GitHub
   - [x] 0019. github.dev
-- markdown 核心语法
-  - [x] 0020. markdown 核心语法
+- [x] 0020. markdown 核心语法
   - [x] 0006. markdown 标题
   - [x] 0007. markdown 文本格式
   - [x] 0008. markdown 列表
@@ -22,10 +18,8 @@
   - [x] 0017. markdown 图表绘制
   - [x] 0014. markdown 高级技巧
   - [x] 0018. markdown 实战
-- markdown 解析器
-  - [x] 0021. 手写 markdown 解析器
-- VSCode markdown 推荐插件
-  - [x] 0022. VSCode markdown 推荐插件
+- [x] 0021. 手写 markdown 解析器
+- [x] 0022. VSCode markdown 推荐插件
 - TODO
   - [ ] 0023. new
   - [ ] 0024. new

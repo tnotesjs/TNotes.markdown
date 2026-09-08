@@ -1,9 +1,0 @@
-{
-  "bilibili": [],
-  "tnotes": [],
-  "yuque": [],
-  "done": true,
-  "enableDiscussions": true,
-  "description": "介绍 markdown 中基于 LaTeX 语法的数学公式编写，以及 KaTeX 与 MathJax 渲染引擎的对比。",
-  "id": "fe427f2d-1d91-4f39-97f2-24f6163fc368"
-}
