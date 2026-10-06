@@ -10,17 +10,7 @@
   "pageUrl": "https://tnotesjs.github.io/TNotes.markdown/",
   "base": "/TNotes.markdown/",
   "stats": {
-    "enabled": true,
-    "completedNotesCount": {
-      "26.02": 0,
-      "26.03": 0,
-      "26.04": 0,
-      "26.05": 0,
-      "26.06": 22,
-      "26.07": 22,
-      "26.08": 22,
-      "26.09": 22
-    }
+    "enabled": true
   },
   "discussions": true
 }
