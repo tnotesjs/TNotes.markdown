@@ -3,7 +3,7 @@
   "name": "TNotes.markdown",
   "description": "markdown 相关笔记",
   "icon": {
-    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--markdown.svg"
+    "src": "../assets/kb-icon.svg"
   },
   "repositoryUrl": "https://github.com/tnotesjs/TNotes.markdown",
   "port": 9738,
